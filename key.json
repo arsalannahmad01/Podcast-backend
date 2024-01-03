@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "podcast-407918",
+  "private_key_id": "fa8861eb8942137867cf52a52ad72ccc33d8a9d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp1/5WUrtBTW73\nIXMuyLd5Sri/8H7br+jNjryX1HeyH81jXpv0I7Kwu71DvbPkRlb25WBNIGNJ7lek\njshAsbprO8hrgdiK0VAXGJk/dXMgvXm/+GZS3mK0c4a5lD13hFqJvoGxMnFdrFfg\nLpRnoJhqSwIHddrOu688wddYvKXs1VlvaLkIYNCzNURKkxB9QSiKOHk1ymASMXp4\nB4TalfumfYPhK63Gdh4iDNcFfKjsH2F6Bub6osl17p5yhRNt5oeKg/T1oC7yWqZX\nYA+kBMnchLWVsT1wUE8Maj/19HQjXbnpRl3EHNTKqnGA6fyngV9KW7MQJEV7B9bc\nutVaEjxvAgMBAAECggEASxM/yJaPUUFSIIk3qeFtQH8oBSfgW2l5hYtnj9GKC0GF\nfzwtwZAaB4clFRGAuBHjlQU1OUJswRxKv2Gh4P7uwUHOyL6/ojT9qwfjjapz9m/q\nplG9oTnN9afvUI7XUMI/Zw2/tDzw4ZAx09WjId9aH/oB7pxI2QMbZcblUsMosPOx\nGviTzHHookvOT79OqD5RdTN5/AJRIHlFIacmByyymYOU07YzIujMoa3JMXCq4zAm\nhzRfcGnkeBOTs0n/DwTUO4oe8ci/CcrW4Sj/dW9mEN8OkKSQ7eEDROaViBOmRDC/\nGPeKFdr2naIq2BbbPF3XEO6orjjSCIMcQC2oo5RAmQKBgQDbj7yh2WxPTeZEKs3e\no9DvsKOLg1HMYEwaOJ6JU4IFhQdKJl7hDK9zG5m9/V7EUl5/0JvdluiOlTThobK0\nrPrAdrtgdv3Im5NNKAwV1ncal1tgLl44SR52PPFHPRKyW+uph2kHtd7nvn9GXHsD\nAyZlvzTNOhyf01ScVQNjNx0wOwKBgQDGB/RIRd9CsfdJneeVur9gxWPENjp+3izD\n13vulBsu7Kiw12oAxlxM/rRlT5wOb7cgvwjMbL0Bf880Zk2HXlPFBhnFO1NPVNgv\nkkA4NMw6jp0hVqXM5sX0S1w2SLGyuOHMAPzHIX0P+Zze0sy06hi4P61iGDlBhQyA\nn3ipDDq1XQKBgFSzFG/Tcmb9hDET2itjQrzUhaLSXAHdvD35TZ9oaaY7dV5zgvKK\ndDyRjzOtxJszs2TXUumex8QJZ0cLm+b7PBh3NT23aZuz+JUxN8hM3dGSRhvKh2pr\nOqceR23V75qCv1y88hWZYY5A/NRl5MZ6tptVscbh/hzh56gPW6kwn7/1AoGAdLrl\nlOCS/PZ4hM1uYEUnYDyaVWN90aDXFE3lwLlO2LcprKwd0P0cFUqiPYHSxHO3p7bT\n0eRa+RJEqmePVbcVe/Lfp/ITZpTlpgz4i+kbZX0BRFCWBRUXJKxzW5A4JthySNVg\nK2UjGhKSFIp/njjLf3gRlNwgi+2IdB0Me+E4jgUCgYEAyDSaznhs8Pz8JUEkWCew\nCZzWxrHslkWdSTJqRBH89inJZVHE8UxC/2gB9jjlwfH2tvQIkwognMaYwYBj4UWM\nipkhnaWaI7KVI5Y7hnBzfeUEHCarTxP2VKBwzNns3z9ZVzF8M3jhLjCPLD2GstDn\njR5TaIZM8tmM7U0bF6Qv5A4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "arsalan@podcast-407918.iam.gserviceaccount.com",
+  "client_id": "104031996124834725649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arsalan%40podcast-407918.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
