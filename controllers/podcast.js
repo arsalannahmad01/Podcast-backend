@@ -1,6 +1,6 @@
 const Podcast = require('../models/Podcast')
 const { StatusCodes } = require('http-status-codes')
-const { BadRequestError } = require('../errors')
+const { BadRequestError, NotFoundError } = require('../errors')
 
 const createPodcast = async (req, res) => {
    
@@ -15,4 +15,13 @@ const createPodcast = async (req, res) => {
     
 }
 
-module.exports = {createPodcast}
+const getPodcast = async (req, res) => {
+    const data = await Podcast.find()
+
+    if(data == null)
+        throw new NotFoundError('Not available')
+
+    res.status(StatusCodes.OK).json(data)
+}
+
+module.exports = {createPodcast, getPodcast}

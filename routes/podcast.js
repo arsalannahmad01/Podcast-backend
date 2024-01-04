@@ -1,8 +1,9 @@
 const express = require('express')
 const router = express.Router()
 
-const { createPodcast } = require('../controllers/podcast')
+const { createPodcast, getPodcast } = require('../controllers/podcast')
 
-router.post('/create-podcast', createPodcast)
+router.route('/create-podcast').post(createPodcast)
+router.route('/get-podcast').get(getPodcast)
 
 module.exports = router
